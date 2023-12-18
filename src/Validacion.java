@@ -53,8 +53,8 @@ public class Validacion {
     }
 
     public void submenu(){
-        System.out.println("1.Ingresar IP y depués máscara, en notación CDIR.");
-        System.out.println("2.Ingresar IP junto a máscara, en decimal.");
+        System.out.println("1.Ingresar IP y máscara en notación CDIR.");
+        System.out.println("2.Ingresar IP  y máscara en decimal.");
     }
 
     public void validar(String ip, String mascaracs) {
